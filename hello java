@@ -1,0 +1,4 @@
+class hello
+[
+SYSTEM(PRINT"HELLO")
+}
